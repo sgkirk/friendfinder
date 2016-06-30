@@ -1,5 +1,4 @@
 
-
 module.exports = function(app){
 
 	// A GET Route to /survey which should display the survey page.
@@ -13,4 +12,3 @@ module.exports = function(app){
 	});
 
 }
-
